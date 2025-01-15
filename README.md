@@ -40,7 +40,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
-| Iptv1  | `899559`               | 316805                                |  http://supersonictv.live:808          |
+| Iptv1  | `899559`               | 316805                                |  http://supersonictv.live:8080         |
 | Iptv2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
 | Iptv3  | `reginaldooliver1`     | oliverreginaldo                       |  https://vptdlxun.online               |
 | Iptv4  | `1103581436`           | 4099381829                            |  http://zkbvzkj.megahdtv.xyz:80        |
