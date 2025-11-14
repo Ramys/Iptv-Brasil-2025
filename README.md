@@ -44,11 +44,8 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
-| Iptv1  | `ere3444h`                      |`agape`                                |  http://tooontv.com:999       |
-| Iptv2  | `YKb44BNfjaAg`                  |`Z6GRGPUMT3R4`                         |  http://tvlatino.club:2082    |
-| Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                |  http://vivofibra.uk:80       |
-| Iptv4  | `cQnq6G`                        |`652882`                               |  http://cord-cutter.net:8080  |
-| Iptv5  | `Tonyp`                         |`yPKEJfH4Nh`                           |  http://5startv.xyz:8080      |
+| Iptv1  | `Raquel1209`                    |`Comicheo1221`                         |  http://higherpro.xyz:8080    |
+| Iptv2  | `xWP0a5`                        |`674148`                               |  http://1tv41.icu:8080        |
 #
 
 
